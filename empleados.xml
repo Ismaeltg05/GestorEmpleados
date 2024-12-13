@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Empleados>
+    <Empleado id="1">
+        <Nombre>Ismael</Nombre>
+        <Apellidos>Torres González</Apellidos>
+        <Departamento>Informática</Departamento>
+        <Sueldo>1200.0</Sueldo>
+    </Empleado>
+</Empleados>
